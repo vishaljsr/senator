@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="apache.juneau.all" type="repository">
+    <properties maven-id="org.apache.juneau:juneau-all:7.2.2" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/juneau/juneau-all/7.2.2/juneau-all-7.2.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/juneau/juneau-marshall/7.2.2/juneau-marshall-7.2.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/juneau/juneau-marshall-rdf/7.2.2/juneau-marshall-rdf-7.2.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/juneau/juneau-rest-server/7.2.2/juneau-rest-server-7.2.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/juneau/juneau-config/7.2.2/juneau-config-7.2.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/juneau/juneau-svl/7.2.2/juneau-svl-7.2.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/juneau/juneau-dto/7.2.2/juneau-dto-7.2.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/juneau/juneau-rest-client/7.2.2/juneau-rest-client-7.2.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.6/httpclient-4.5.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.10/httpcore-4.4.10.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.2/commons-logging-1.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.10/commons-codec-1.10.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/juneau/juneau-microservice-server/7.2.2/juneau-microservice-server-7.2.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-server/9.4.12.v20180830/jetty-server-9.4.12.v20180830.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-http/9.4.12.v20180830/jetty-http-9.4.12.v20180830.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-io/9.4.12.v20180830/jetty-io-9.4.12.v20180830.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-security/9.4.12.v20180830/jetty-security-9.4.12.v20180830.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-servlet/9.4.12.v20180830/jetty-servlet-9.4.12.v20180830.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-xml/9.4.12.v20180830/jetty-xml-9.4.12.v20180830.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-util/9.4.12.v20180830/jetty-util-9.4.12.v20180830.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
